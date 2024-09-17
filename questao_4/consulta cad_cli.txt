@@ -1,0 +1,14 @@
+SELECT 
+    cli.cod_cli, 
+    cli.razao_social,
+    cli_tel.ddd,
+    cli_tel.telefone
+FROM 
+    cad_cli AS cli
+INNER JOIN 
+    cad_cli_telefone AS cli_tel 
+    ON cli_tel.id_cli = cli.id_cli 
+    AND cli_tel.status = 'A'
+WHERE
+    cli.status = 'A'
+    AND cli.estado = 'SP';

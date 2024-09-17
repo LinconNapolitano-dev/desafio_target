@@ -1,0 +1,10 @@
+Velocidade relativa => 90 km/h + 80 km/h = 170 km/h.
+
+125 / 170 = 44,1 m (é o mesmo 0,735 horas)
+
+tempo total pedagio  = 15 minuto.
+
+Distancia Carro = 90 * 0,735 = 66,15 km
+Distancia Caminha = 80 * 0,735 = 58,8 km
+
+Resposta: Eles irão se encontrar após ter viajado 44,1 minutos, sendo Carro o mais próximo de Ribeirão Preto.
